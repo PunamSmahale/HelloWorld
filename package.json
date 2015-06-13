@@ -1,0 +1,22 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "first MEAN application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PunamSmahale/HelloWorld.git"
+  },
+  "author": "Punam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PunamSmahale/HelloWorld/issues"
+  },
+  "homepage": "https://github.com/PunamSmahale/HelloWorld#readme",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
